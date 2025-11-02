@@ -13,3 +13,14 @@ A modular Streamlit app that analyzes bank statements by salary cycles,  summari
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
+
+### Input
+![alt text](https://github.com/channachannu/Statement_Analyzer/blob/main/Input.png)
+
+### Outupt
+![alt text](https://github.com/channachannu/Statement_Analyzer/blob/main/Output.png)
+
+### Visual
+![alt text](https://github.com/channachannu/Statement_Analyzer/blob/main/Visual.png)
+
