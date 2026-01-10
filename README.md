@@ -24,3 +24,4 @@ streamlit run app.py
 ### Visual
 ![alt text](https://github.com/channachannu/Statement_Analyzer/blob/main/Visual.png)
 
+### Streamlit App link - https://statementanalyzer.streamlit.app/
